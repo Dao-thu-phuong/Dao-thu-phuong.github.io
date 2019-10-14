@@ -1,0 +1,141 @@
+.all{
+    width:100%;
+    height:800px;
+    background-color: antiquewhite; 
+}
+.Pink{
+    width:98%;
+    height:55px;
+    background-color: pink;
+    margin:1%;
+    border: solid white 1px;
+}
+.B{
+    width:98%;
+    height:600px;
+    margin:1%;
+
+}
+.Left{
+    width:58.2%;
+    height:600px;
+    float:left;
+    
+}
+.xanh{
+    width:98%;
+    height:300px;
+    background-color: #7FFFD4;
+}
+.under{
+    width:98%;
+    height:300px;
+    margin-right: 1%;
+    margin-top: 1.5%;
+}
+.RO{
+    width:47%;
+    height:300px;
+    float:left;
+    margin-right: 1%;
+    
+}
+.Red{
+    width:98%;
+    height:120px;
+    background-color: red;
+    float:left;
+    margin-bottom: 15px;
+
+}
+
+.Orange{
+    width:98%;
+    height:165px;
+    background-color: #FF4500;
+    float:left;  
+    
+}
+.Purble{
+    width:52%;
+    height:300px;
+    background-color:#FF00FF;
+    float:left;
+    
+}
+.Right{
+    width:41.8%;
+    height:600px;
+    float:left;
+   
+}
+.Top{
+    width:100%;
+    height:140px;
+    float:left;
+}
+.Tim{
+    width:70%;
+    height:140px;
+    float:left;
+    background-color: purple;
+    margin-right: 2%;
+    
+}
+.xanhdam{
+    width:28%;
+    height:140px;
+    float:left;
+    background-color: #228B22;
+
+}
+.Middle{
+    width:100%;
+    height:70px;
+    background-color: yellow;
+    float:left;
+    margin-top: 2%;
+
+}
+.Three{
+    width:100%;
+    height:320px;
+    float:left;
+    margin-top: 2%;
+}
+.one{
+    width:32%;
+    height:308px;
+    background-color: #008B8B;
+    float:left;
+    margin-right: 2%;
+  
+}
+.two{
+    width:32%;
+    height:308px;
+    background-color:red;
+    float:left;
+    margin-right: 2%;
+
+}
+.three{
+    width:32%;
+    height:308px;
+    background-color: #008B8B;
+    float:left;
+}
+.Low{
+    width:100%;
+    height:58px;
+    background-color:#CD853F;
+    float:left;
+}
+.Black{
+    width:98%;
+    height:60px;
+    background-color: black;
+    margin-left: 1%;
+    margin-top: 2%;  
+     border: solid white 1px;
+}
