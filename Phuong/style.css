@@ -1,0 +1,114 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.all{
+    width:100%;
+    height:auto;
+}
+.div-menu{
+    width:100%
+}
+.menu{
+    padding:10px;
+    width:100%;
+    height:65px;
+    background-color:white;
+    position: fixed;
+    top:0px;
+    margin:0;
+    box-shadow:0 0 15px gray ;
+    float: right;
+}
+.menu li{
+    display:flex;
+    float:right;
+    line-height: 50px;
+    margin:0 30px;
+    border:solid 1px black;
+     border-radius:4px ;
+     padding:5px;
+}
+.menu li a{
+    text-decoration: none;
+    color:black;
+    padding 10px;
+}
+.menu li:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
+.cover{
+    width:100%;
+    height:688px;
+    background-image: url(./photo-1494256997604-768d1f608cac.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.image1{
+    width:200px;
+    height:200px;
+    background-image: url(./photo-1548247416-ec66f4900b2e.jpg);
+    background-size: cover;
+    border-radius: 50%;
+    margin:0 650px;
+}
+.main{
+    width:100%;
+    height:auto;
+}
+.one{
+    width:100%;
+    height:auto;
+    text-align: center;
+    margin:50px;
+}
+.image2{
+    width:400px;
+    height:400px;
+    background-image: url(./photo-1511044568932-338cba0ad803.jpg);
+    background-size: cover;
+    border-radius: 15px;
+    float:left;
+    z-index: 1000;
+}
+.text1{
+    width:50%;
+    height:400px;
+    font-family: Arial, Helvetica, sans-serif;
+    float:left;
+    margin:50px;
+    font-size: 20px;
+    
+}
+.two{
+    width:100%;
+    height:auto;
+    text-align: center;
+    margin:50px;
+    
+}
+.text2{
+    width:50%;
+    font-family: Arial, Helvetica, sans-serif;
+    float:left;
+    margin:30px;
+    font-size: 20px;
+}
+.image3{
+    width:400px;
+    height:400px;
+    background-image: url(./photo-1526336024174-e58f5cdd8e13.jpg);
+    background-size: cover;
+    border-radius: 15px;
+    float: left;
+}
+.end{
+    width:100%;
+    height:100px;
+    background-color: black;
+    text-align: center;
+    float:left;
+}
+
